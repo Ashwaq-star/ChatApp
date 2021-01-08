@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80500183361",
+    "project_id": "chatapp-c0a30",
+    "storage_bucket": "chatapp-c0a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80500183361:android:bd5dda05416ed1e7fe51c0",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.cahtapp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80500183361-5pegn1ecjvrb2vhbqdda9b1sju04vsk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bignerdranch.android.cahtapp_firebase",
+            "certificate_hash": "81b7d4e9e0f527de6781615707dd806b5012f18d"
+          }
+        },
+        {
+          "client_id": "80500183361-g0q7dn8kck80ingtq4fivn5vjt2qvnpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZd6gF0m_RPtXTZriJ5cYyFPiE4E_8toU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80500183361-g0q7dn8kck80ingtq4fivn5vjt2qvnpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
